@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, me chamo Jade Ferreira, sou uma Dev Front End!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/jadeferreirae"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jadeferreirae@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jadeferreirae"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jadeferreirae@gmail.com"><img src="https://img.shields.io/badge/-Me%20mande%20uma%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
@@ -46,4 +46,4 @@ Se quiser trocar uma ideia, colaborar ou falar sobre oportunidades, <a href="mai
 
 <h2>🚀 &nbsp;GitHub Status</h2>
 
-![Jade Ferreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadeferreira&show_icons=true&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jadeferreira&rank_icon=github&show_icons=true&include_all_commits=true&theme=date_night)](https://github-stats-extended.vercel.app/api?username=jadeferreira&rank_icon=github&show_icons=true&include_all_commits=true&theme=date_night)
