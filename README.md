@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, me chamo Jade Ferreira, sou uma Dev Front End!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jadeferreirae"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jadeferreirae@gmail.com"><img src="https://img.shields.io/badge/-Me%20mande%20uma%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jadeferreirae@gmail.com"><img src="https://img.shields.io/badge/-Me%20mande%20uma%20mensagem-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
